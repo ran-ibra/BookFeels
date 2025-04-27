@@ -85,6 +85,13 @@ emotion_classification.ipynb ➔ Classifies emotions in reviews
 
 Recommendation_&_Book_emotion_classification.ipynb ➔ Builds recommendations
 
+## 📝 Project Idea Draft
+
+Here’s a glimpse of my initial brainstorming and documented notes for BookFeels:
+
+![Handwritten Notes] (documented/my handwritten document.pdf)
+![initial working of this system] (documented/1.jpg)
+
 ## 💬 Acknowledgements
 - Hugging Face (Transformers Library)
 
