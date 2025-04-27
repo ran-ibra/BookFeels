@@ -61,7 +61,7 @@ Here’s a glimpse of my initial brainstorming and documented notes for BookFeel
 ![initial working of this system](documented/1.jpg)
 
 
-## ![Handwritten Notes](documented/myhandwrittendoc.pdf)
+## ![Detailed steps](documented/myhandwrittendoc.pdf)
 
 
 # 📋 How to Run
