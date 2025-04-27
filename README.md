@@ -58,8 +58,11 @@ Developed as a graduation project, it combines lexicon-based emotion detection, 
 
 Here’s a glimpse of my initial brainstorming and documented notes for BookFeels:
 
-![Handwritten Notes](documented/myhandwrittendoc.pdf)
 ![initial working of this system](documented/1.jpg)
+
+
+## ![Handwritten Notes](documented/myhandwrittendoc.pdf)
+
 
 # 📋 How to Run
 Clone the repo:
