@@ -53,6 +53,14 @@ Developed as a graduation project, it combines lexicon-based emotion detection, 
 
 - Models: RoBERTa (for sentiment), experimental BERT (for emotions)
 
+
+## 📝 Project visualized
+
+Here’s a glimpse of my initial brainstorming and documented notes for BookFeels:
+
+![Handwritten Notes](documented/my handwritten document.pdf)
+![initial working of this system](documented/1.jpg)
+
 # 📋 How to Run
 Clone the repo:
 
@@ -84,13 +92,6 @@ Run the notebooks:
 emotion_classification.ipynb ➔ Classifies emotions in reviews
 
 Recommendation_&_Book_emotion_classification.ipynb ➔ Builds recommendations
-
-## 📝 Project Idea Draft
-
-Here’s a glimpse of my initial brainstorming and documented notes for BookFeels:
-
-![Handwritten Notes] (documented/my handwritten document.pdf)
-![initial working of this system] (documented/1.jpg)
 
 ## 💬 Acknowledgements
 - Hugging Face (Transformers Library)
